@@ -1,7 +1,7 @@
 # 📈 Walmart Store #1 Weekly Sales Forecasting
 
-[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)  
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 ![image](https://github.com/user-attachments/assets/f1900499-e6f3-4434-805e-cc6af82b781c)
 
