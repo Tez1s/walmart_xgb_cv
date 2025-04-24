@@ -108,7 +108,7 @@ The XGBoost model significantly outperformed traditional time series methods in 
 | SARIMAX   | 38499.72   | 2.07%   |
 | Prophet   | 64,206.78  | 3.30%   |
 | **XGBoost** | **19,274.35** | **1.13%** |
-**Model Performance on Store #1 Weekly Sales Forecasting:**
+**Model Performance:** | **19,274.35** | **1.13%** |
 
 - **📉 RMSE**: `19,274.35`  
 - **📈 MAPE**: `1.13%`
